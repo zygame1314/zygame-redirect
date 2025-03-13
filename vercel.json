@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://blog.zygame1314.site/$1",
+      "statusCode": 301
+    }
+  ]
+}
